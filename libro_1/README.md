@@ -1,5 +1,7 @@
 # El silencio de la ciudad blanca [2016]
 
+<img src="libro1.jpg" alt="drawing" width="300"/>
+
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 
 [AS]: mailto:andreas.steffen@strongsec.net
