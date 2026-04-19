@@ -2,7 +2,7 @@
 
 ### [Jimena Garay](../familia_garay/README.md#jimena)
 
-### Ítaca Expósito<a name="itaca"></a>
+### Ítaca Expósito<a name="itaca"></a> &nbsp; [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 * Falsicadora de libros y cuadros. Pertenece al círculo de las Egerias.
   Huérfana abandonada a las puertas del colegio de Veracruz en Vitoria (1 de enero 1957).
@@ -18,41 +18,29 @@
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra,
   escondido en la Caja de las Letras 1208 del Instituto Cervantes.
 
-* Libros: [[4](../libro_4/README.md), [5](../libro_5/README.md)]
-
-### Charlotte<a name="charlotte"></a>
+### Charlotte<a name="charlotte"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Pertenece al círculo de las Egerias negociando las cesiones temporales de
   museos o salas con algún pintor que esté de moda entre los coleeccionistas
   privados.
 
-* Libros: [[5](../libro_5/README.md)]
-
-### Ava<a name="ava"></a>
+### Ava<a name="ava"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Pertenece al círculo de las Egerias encargandose de los titulares de la prensa
   que atraen a esos coleccionistasn.
 
-* Libros: [[5](../libro_5/README.md)]
-
-### Madison<a name="madison"></a>
+### Madison<a name="madison"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Pertenece al círculo de las Egerias contactando y tientando a los que estan en
   su radar,
 
-* Libros: [[5](../libro_5/README.md)]
-
-### Kora<a name="kora"></a>
+### Kora<a name="kora"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Pertenece al círculo de las Egerias encargandose de los asuntos mundanos como billetes, documentos..
 
-* Libros: [[5](../libro_5/README.md)]
-
-### Harper<a name="harper"></a>
+### Harper<a name="harper"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Pertenece al círculo de las Egerias lavando todo el dinero sucio para que no todo entre en el sistema legal.
-
-* Libros: [[5](../libro_5/README.md)]
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

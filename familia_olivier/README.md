@@ -1,6 +1,6 @@
 # La familia Olivier
 
-### Casto Olivier<a name="casto"></a>
+### Casto Olivier<a name="casto"></a> &nbsp; [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 * Propretario de la fábrica de naipes en Vitoria. Vivió en una casona en la calle Manuel Iradier en Vitoria.
   Tres nietos: [Carmen](#carmen), [Diego](#diego) y [Nico](#caliban).
@@ -8,21 +8,15 @@
 
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra.
 
-* Libros: [[4](../libro_4/README.md), [5](../libro_5/README.md)]
-
-### Diego Olivier<a name="diego"></a>
+### Diego Olivier<a name="diego"></a> &nbsp; [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 * Nieto de [Casto Olivier](#casto).
 
-* Libros: [[4](../libro_4/README.md), [5](../libro_5/README.md)]
-
-### Carmen Olivier<a name="carmen"></a>
+### Carmen Olivier<a name="carmen"></a> &nbsp; [[4](../libro_4/README.md)]
 
 * Nieta de [Casto Olivier](#casto).
 
-* Libros: [[4](../libro_4/README.md)]
-
-### Juan Olivier de la Cuesta (Calibán)<a name="caliban"></a>
+### Juan Olivier de la Cuesta (Calibán)<a name="caliban"></a> &nbsp; [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 * Como Nico (Juanico) Olivier nieto menor de [Casto Olivier](#casto).
 
@@ -32,8 +26,6 @@
 * Asesino, secuestrador y chantajista. Se llama por el personaje de _La tempestad_ de Shakespeare.
 
 * Quiere recuperar el _Libro Negro de las Horas_ de Constanza de Navarra.
-
-* Libros: [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

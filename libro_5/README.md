@@ -12,7 +12,7 @@
 * [Mencía Madariaga](../README.md#mencia_m)
 * [Alba Díaz de Salvatierra](../familia_diaz/README.md#alba)
 * [Deba Díaz de Salvatierra](../familia_diaz/README.md#deba)
-* [Estíbaliz Ruiz de Gauna](../README.md#esti_r)
+* [Estíbaliz Ruiz de Gauna](../familia_ruiz_de_gauna/README.md#esti)
 * [Calibán](../familia_olivier/README.md#caliban)
 * [Alistair Morgan](../familia_morgan/README.md#alistair)
 * [Benedict Callaghan](../README.md#benedict_c)

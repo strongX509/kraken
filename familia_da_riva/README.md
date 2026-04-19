@@ -1,17 +1,13 @@
 # Familia Da Riva
 
- ### Pietra Da Riva<a name="pietra"></a>
+ ### Pietra Da Riva<a name="pietra"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Directora del _Museo Guggenheim_ en el Palazzo _Venier dei Leoni_ en Venecia.
   Madre de [Leone](#leone).
 
-* Libros: [[5](../libro_5/README.md)]
-
- ### Leone Da Riva<a name="leone"></a>
+ ### Leone Da Riva<a name="leone"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Abogado. Hijo de [Pietra](#pietra) y padre the [Mencía](../README.md#mencia_m).
-
-* Libros: [[5](../libro_5/README.md)]
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

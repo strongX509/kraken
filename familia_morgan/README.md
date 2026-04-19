@@ -1,6 +1,6 @@
 # La familia Morgan
 
-### Sarah Morgan<a name="sarah"></a>
+### Sarah Morgan<a name="sarah"></a> &nbsp; [[4](../libro_4/README.md)]
 
 * Dueña de la editorial de facsímiles _The Fisher King_ en el Barrio de las Letras de Madrid
   y directory de la _Liga Internacional de Libreros Anticuarios_.
@@ -10,9 +10,7 @@
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra que recibió
   de [Edmundo](../README.md#edmundo).
 
-* Libros: [[4](../libro_4/README.md)]
-
-### Alistair Morgan (el Hippie)<a name="alistair"></a>
+### Alistair Morgan (el Hippie)<a name="alistair"></a> &nbsp; [[4](../libro_4/README.md), [5](libro_5/README.md)]
 
 * Dueño de la _Librería del Alma_ en el Barrio de las Letras de Madrid.
   Hijo de [Gael Morgan](#gael) y padre de [Sarah Morgan](#sarah).
@@ -20,14 +18,9 @@
 
 * Uno de los organizadores de la Feria Internacional del Libro Antiguo en Venecia.
 
-* Libros: [[4](../libro_4/README.md), [5](libro_5/README.md)]
-
-### Gael Morgan<a name="gael"></a>
+### Gael Morgan<a name="gael"></a> &nbsp; [[4](../libro_4/README.md)]
 
 * Padre de [Alistair Morgan](#alistair) y amigo del [Abuelo de Unai](../familia_lopez/README.md#abuelo).
-
-* Libros: [[4](../libro_4/README.md)]
-
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

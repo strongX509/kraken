@@ -1,29 +1,21 @@
 # Familia Ruiz de Azúa
 
-### Ricardo Ruiz de Azúa<a name="ricardo"></a>
+### Ricardo Ruiz de Azúa<a name="ricardo"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Vicerrector del Campus de Álava. Murió en su cama envenado con nicotina por su mujer [Asun](#asun).
   Como buen amigo era el Custodio de la herencia de [Casto Olivier](../familia_olivier/README.md#casto).
 
- * Libros: [[5](../libro_5/README.md)]
-
-### Ricardo Ruiz de Azúa hijo<a name="ricardo_hijo"></a>
+### Ricardo Ruiz de Azúa hijo<a name="ricardo_hijo"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Hijo de [Ricardo Ruiz de Azúa](#ricardo).
 
- Libros: [[5](../libro_5/README.md)]
-
-### Merkel Ruiz de Azúa<a name="merkel_r"></a>
+### Merkel Ruiz de Azúa<a name="merkel_r"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Nieto de [Ricardo Ruiz de Azúa](#ricardo).
 
-* Libros: [[5](../libro_5/README.md)]
-
-### Asun<a name="asun"></a>
+### Asun<a name="asun"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Viuda del vicerrector [Ricardo Ruiz de Azúa](#ricardo).
-
-* Libros: [[5](../libro_5/README.md)]
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

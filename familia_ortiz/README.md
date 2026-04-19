@@ -1,16 +1,21 @@
 # Familia Ortiz de Zárate
     
-### Tasio Ortiz de Zárate
+### Tasio Ortiz de Zárate<a name="tasio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Hermano gemelo de [Ignacio](#ignacio).
+  Hijo de [Blanca Díaz de Antoñana](../README.md#blanca_d) y [Álvaro Urbina](../README.md#alvaro_u).
+  Vive en la calle Dato 1.
 
-* Libros: [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+### Ignacio Ortiz de Zárate<a name="ignacio"></a> &nbsp; [[1](../libro_1/README.md)]
 
-### Ignacio Ortiz de Zárate
+* Era inspector de la División de Investigación Criminal en Vitoria.
+  Hermano gemelo de [Tasio](#tasio).
+  Hijo de [Blanca Díaz de Antoñana](../README.md#blanca_d) y [Álvaro Urbina](../README.md#alvaro_u).
+  Vive en la calle Dato 2. Tiene un chalet en Laguardia.
 
-* Hermano gemelo de [Tasio](#tasio).
+### Javier Ortiz de Zárate<a name="javier"></a> &nbsp; [[1](../libro_1/README.md)]
 
-* Libros: [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+* Dueño de Ferrerías Alavesas. Se casó con [Blanca Díaz de Antoñana](../README.md#blanca_d).
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 

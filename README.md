@@ -20,11 +20,21 @@
 
 # Personajes
 
+## [Las victimas del doble crimen](victimas/README.md)
+
 ## [La familia López de Ayala](familia_lopez/README.md)
     
 ## [La familia Díaz de Salvatierra](familia_diaz/README.md)
 
 ## [La familia Ortiz de Zárate](familia_ortiz/README.md)
+
+## [La familia Ruiz de Gauna](familia_ruiz_de_gauna/README.md)
+
+## [La cuadrilla de San Viator](cuadrilla/README.md)
+
+## [La familia Lopidana](familia_lopidana/README.md)
+
+## [La familia Tovar](familia_tovar/README.md)
 
 ## [La familia Garay](familia_garay/README.md)
 
@@ -42,7 +52,7 @@
 
 ## Otros personajes
 
-### Mencía Madariaga (Clemenzia)<a name="mencia_m"></a>
+### Mencía Madariaga (Clemenzia)<a name="mencia_m"></a> &nbsp; [[4](libro_4/README.md), [5](libro_5/README.md)]
 
 * Inspectora de la brigada de investigación de Patrimonio Histórico en la Communidad de Madrid.
   Hija de [Ítaca](egerias/README.md#itaca) y [Leone Da Riva](familia_da_riva/#leone). Media hermana de [Unai](familia_lopez/README.md#unai).
@@ -50,71 +60,148 @@
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra,
   recuperade del despacho de [Juan de la Cuesta](#caliban) escondido en la edición elefante de _La Tempestad_.
 
-* Libros: [[4](libro_4/README.md), [5](libro_5/README.md)]
+### Paula<a name="paula"></a> &nbsp; [[1](libro_1/README.md)]
 
-### Marta Gómez<a name="marta_g"></a>
+* Esposa de [Unai](familia_lopez/README.md#unai) que murió juntos con sus dos hijos nonatos
+  cuando [Sergio](cuadrilla/README.md#sergio), el amigo de [Unai](familia_lopez/README.md#unai)
+  se suicidó estrellando su coche a gran velocidad contra un árbol.
+
+### Marta Gómez<a name="marta_g"></a> &nbsp; [[4](libro_4/README.md), [5](libro_5/README.md)]
 
 * Madre de [Germán](familia_lopez/README.md#german). Falleció durante el parto de su hijo [Germán](familia_lopez/README.md#german).
 
-* Libros: [[4](libro_4/README.md), [5](libro_5/README.md)]
+### Doctora Guevara<a name="guevara"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
-### Estíbaliz Ruiz de Gauna<a name="esti_r"></a>
+* Forense de la División Criminal de Vitoria
 
-* Inspectora de la División Criminal de Vitoria y experta en Victimología. Compañera y amiga de [Unai](familia_lopez/README.md#unai).
+### Comisario Medina<a name="medina"></a> &nbsp; [[1](libro_1/README.md)]
 
-* Libros: [[1](libro_1/README.md), [2](libro_2/README.md), [3](libro_3/README.md), [4](libro_4/README.md), [5](libro_5/README.md)]
-    
-### Lutxo
+* Comisario de la División Criminal de Vitoria
 
-* Cronista del Diario Alavés. Miembro de la cuadrilla de [Unai](familia_lopez/README.md#unai). Amigo de [Edmundo](#edmundo).
-  
-### Asier
+### Juez Olano<a name="olano"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
-* Miembro de la cuadrilla de [Unai](familia_lopez/README.md#unai).
-  
-### José Javier (Jota)
+* Juez en Vitoria
 
-* Miembro de la cuadrilla de [Unai](familia_lopez/README.md#unai).
-  
-### Saúl Tovar<a name="saul_t"></a>
+### Álvaro Urbina<a name="alvaro_u"></a> &nbsp; [[1](libro_1/README.md)]
 
-* Profesor de antropología cultural en la Universidad de Cantabria.
+* Médico, amante de [Blanca Díaz de Antoñana](#blanca_d).
+  Padre de [Tasio](familia_ortiz/README.md#tasio), [Ignacio](familia_ortiz/README.md#ignacio) y [Nancho](#nancho).
 
-* Libros: [[2](libro_2/README.md)]
-    
-### Rebecca Tovar
+### Emilia Aranguren<a name="emilia"></a> &nbsp; [[1](libro_1/README.md)]
 
-* Hija de [Saúl](#saul_t), desparecida cuando solo contaba con catorce años.
+* Esposa de [Álvaro Urbina](#alvaro_u).
 
-* Libros: [[2](libro_2/README.md)]
+### Blanca Díaz de Antoñana<a name="blanca_d"></a> &nbsp; [[1](libro_1/README.md)]
 
-### Ana Belén Liaño (Annabel Lee)
+* Se casó con [Javier Ortiz de Zárate](familia_ortiz/README.md#javier). Amante de [Álvaro Urbina](#alvaro_u).
+  Madre de [Tasio](familia_ortiz/README.md#tasio), [Ignacio](familia_ortiz/README.md#ignacio) y [Nancho](#nancho).
 
-* Dibujante de cómics relativamente famosa.
+### Mario Santos (Nancho)<a name="nancho"></a> &nbsp; [[1](libro_1/README.md)]
 
-* Libros: [[2](libro_2/README.md)]
-  
-### Héctor del Castillo
+* Director de _El Correo Vitoriano_. Marido de [Alba Díaz de Salvatierra](familia_diaz/README.md#alba).
+  Hijo de [Blanca Díaz de Antoñana](#blanca_d) y [Álvaro Urbina](#alvaro_u).
+
+* A través de la mediación de [Felisa](#felisa) la familia [Lopidana](familia_lopidana/README.md)
+  viviendo en Izarra lo adoptó ilegalmente poco después de su nacimiento.
+
+* En 1989, Nancho envenenó a toda la familia con hojas de tejo y quemó la casa familiar de los Lopidana con gasolina.
+
+* A principios de los anos noventa Nancho aprobó el graduado escolar por las noches en la Academia Hemingway en Pamplona.
+  Vivió en el hostal de estudiantes de la calle Amaya. Compartió su habitación con el estudiante de Periodismo
+  Mario Santos Espinosa. Nancho lo mató incendiando la habitación y adoptó su identidad.
+
+* El asesino en todos los dobles crímenes.
+
+### Pancorbo<a name="pancorbo"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Companero de [Ignacio Ortiz de Zárate](familia_ortiz/README.md#ignacio) en la División de Investigación Criminal en Vitoria.
+  Ahora inspector en Tráfico.
+
+### Iker<a name="iker"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Novio de [Estí](familia_ruiz_de_gauna/README.md#esti).
+
+### Inés Ochoa<a name="ines_o"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Directora de programación del canal autonómico.
+  [Tasio Ortiz de Zárate](familia_ortiz/README.md#tasio) tenía un programa arqueológico en este canal.
+
+### Peio<a name="peio"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Novio de [Enara Fernández de Betoño](victimas/README.md#enara_f).
+
+### Antonio Fernández de Betoño<a name="antonio_f"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Óptico con una tienda en la calle San Prudencio. Padre de [Enara](victimas/README.md#enara_f).
+
+### Aitana Garmendia<a name="aitana_g"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Fue novia de [Ignacio Ortiz de Zárate](familia_ortiz/README.md#ignacio) cuando tenía dieciocho años.
+
+### Maturana (MatuSalem)<a name="maturana"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Hacker que esta publicando un blog con el hashtag #kraken.
+
+### Urresko Neska (Golden Girl)<a name="urresko_n"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Leyenda en los foros de _black hack_.Tiene sesenta y seis años. Colaboradora de [Unai](familia_lopez/README.md#unai).
+
+### Felisa<a name="felisa"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Enfermera del doctor [Álvaro Urbina](#alvaro_u). Tia abuela de [Unai](familia_lopez/README.md#unai).
+
+### Sara<a name="sara"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Esposa de [Sergio](cuadrilla/README.md#sergio).
+  Murió a causa de un ataque de asma en la casa de sus abuelos en Bajauri.
+  Quería conocer todos los pueblos de Álava.
+
+### Don Tiburcio de Sáenz de Urturi<a name="tiburcio"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Masón, Gran Maestro o Gran Secretario. Conoce la ermita de la Concepción de San Vicentejo.
+
+### Antonio Garrido-Stoker<a name="antonio_g"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Abogado de [Ignacio](familia_ortiz/README.md#ignacio) de San Sebastián.
+
+### María Jesús Letona (Txusa)<a name="txusa"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Jefe del retén que acudió al caserío de la familia [Lopidana](familia_lopidana/README.md) a sofocar el incendio.
+
+### Saioa<a name="saioa"></a> &nbsp; [[1](libro_1/README.md)]
+
+* Recepcionista del hostal de estudiantes de la calle Amaya en Pamplona que vivió [Nancho](#nancho).
+
+### Ana Belén Liaño (Annabel Lee)<a name="ana_b"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Dibujante de cómics relativamente famosa. Primera novia de [Unai](familia_lopez/README.md#unai).
+
+### Andoni Cuesta<a name="andoni_c"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Técnico de la Científica.
+
+### Diana Aldecoa<a name="diana_a"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Neuróloga.
+
+### Héctor del Castillo &nbsp; [[2](libro_2/README.md)]
 
 * Director del Museo Arqueológico de Cantabria.
 
-* Libros: [[2](libro_2/README.md)]
-
-### Manu Peña
+### Manu Peña &nbsp;
 
 * Subinspector en la Unidad de Criminología de la comisaría; trasladado desde San Sebastián.
   
-### Milán Martínez
+### Milán Martínez &nbsp;
 
 * Agente en la Sección Central de Delitos en Tecnologías de la Información.
   
-### Pablo Lanero (Paulaner)
+### Pablo Lanero (Paulaner) &nbsp; [[2](libro_2/README.md)]
  
 * Inspector  de la comisaría de Santander.
-  
-* Libros: [[2](libro_2/README.md)]
 
-### Edmundo (El Conde)<a name="edmundo"></a>
+
+### Edmundo (El Conde)<a name="edmundo"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Dueño de la prestigiosa librería antiquaria _Montecristo_ en Vitoria.
   Envendado con una sustancia volátil por [Calibán](#caliban).
@@ -123,9 +210,7 @@
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra que compró de
   [Pedro Bardel](#pedro_b).
 
-* Libros: [[4](libro_4/README.md)]
-
-### Mikaela (Goya)<a name="mikaela"></a>
+### Mikaela (Goya)<a name="mikaela"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Directiva de la _Fundación Sancho el Sabio_ en Betoño a las afueras de Vitoria.
   Esposa de [Edmundo](#edmundo) y mejor amiga de [Ítaca](egerias/README.md#itaca) como alumna del
@@ -134,41 +219,31 @@
 
 * En posesión final del _Libro Negro de las Horas_ de Constanza de Navarra.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Telmo<a name="telmo"></a>
+### Telmo<a name="telmo"></a> &nbsp; [[4](libro_4/README.md)]
 
 * El Guardián de los Fondos. Trabaja en a _Fundación Sancho el Sabio_ en Betoño
-  a las afueras de Vitoria. Amigo de [Lutxo](#lutxo).
+  a las afueras de Vitoria. Amigo de [Lutxo](cuadrilla/README.md#lutxo).
 
-* Libros: [[4](libro_4/README.md)]
-
-### Benedict Callaghan<a name="benedict_c"></a>
+### Benedict Callaghan<a name="benedict_c"></a> &nbsp; [[4](libro_4/README.md), [5](libro_5/README.md)]
 
 * Marido the [Sarah Morgan](familia_morgan/README.md#sarah).
 
 * Uno de los organizadores de la Feria Internacional del Libro Antiguo en Venecia.
 
-* Libros: [[4](libro_4/README.md), [5](libro_5/README.md)]
-
-### Alicia Lasarte<a name="alicia_l"></a>
+### Alicia Lasarte<a name="alicia_l"></a> &nbsp; [[4](libro_4/README.md), [5](libro_5/README.md)]
 
 * Dueña de la librería de viejo _La Maga_ en Vitoria.
 
 * Una de los organizadores de la Feria Internacional del Libro Antiguo en Venecia.
 
-* Libros: [[4](libro_4/README.md), [5](libro_5/README.md)]
-
-### Gaspar Abad<a name="gaspar_a"></a>
+### Gaspar Abad<a name="gaspar_a"></a> &nbsp; [[4](libro_4/README.md), [5](libro_5/README.md)]
 
 * Dueño de las librerías _Némesis, Hubris y Hamartía_ en la _Cuesta de Moyano_ en Madrid,
   Amigo de [Alistair Morgan](familia_morgan/#alistair) y de [Juan de la Cuesta](familia_olivier/README.md#caliban).
 
 * Uno de los organizadores de la Feria Internacional del Libro Antiguo en Venecia.
 
-* Libros: [[4](libro_4/README.md), [5](libro_5/README.md)]
-
-### Fabio<a name="fabio"></a>
+### Fabio<a name="fabio"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Guardia de securidad en el Instituto Cervantes en el edificio de las Cariátides,
   el antiguo Banco Español del Río de la Plata en Madrid. Contiene la Caja de las Letras,
@@ -176,87 +251,62 @@
 
 * [Ítaca](egerias/README.md#itaca) ha escondido el _Libro Negro de las Horas_ de Constanza de Navarra en la caja 1208.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Justino<a name="justino"></a>
+### Justino<a name="justino"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Guardia de la casona de [Casto Olivier](familia_olivier/README.md#casto) en la calle Manuel Iradier en Vitoria.
   Vive en Villafría.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Pedro Bardel<a name="pedro_b"></a>
+### Pedro Bardel<a name="pedro_b"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Dueño de una librería en la calle del Prado 9 en el Barrio de las Letras de Madrid.
 
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra que compró de
   [Casto Olivier](familia_olivier/README.md#casto).
 
-* Libros: [[4](libro_4/README.md)]
-
-### Madre Magdalena<a name="magdalena"></a>
+### Madre Magdalena<a name="magdalena"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Directora del colegio Veracruz en Vitoria.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Padre Lazaro<a name="lazaro"></a>
+### Padre Lazaro<a name="lazaro"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Acompañaba a [Ítaca](egerias/README.md#itaca) a actos publicos cuando las monjas del colegio Veracruz le pedían.
 
 * Ahora se encarga de los faroles de la Cofradía de la Virgen Blanca en el Museo de los Faroles en Vitoria.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Don José María<a name="jose_maria"></a>
+### Don José María<a name="jose_maria"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Profesor de Pintura de la Escuela de Artes y Oficios en Vitoria.
 
-* Libros: [[4](libro_4/README.md)]
-
-### Lorea Díaz de Durana<a name="lorea_d"></a>
+### Lorea Díaz de Durana<a name="lorea_d"></a> &nbsp; [[4](libro_4/README.md)]
 
 * Estudiante de Historia del Arte, trabajando en la  librería antiquaria
  _Montecristo_ en Vitoria. Amante de [Edmundo](#edmundo).
 
-* Libros: [[4](libro_4/README.md)]
-
-### Nicola<a name="nicola"></a>
+### Nicola<a name="nicola"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Anciano pescatero en Venecia, amigo de [Ítaca](egerias/README.md#itaca).
 
-* Libros: [[5](libro_5/README.md)]
-
-### Gennaro<a name="gennaro"></a>
+### Gennaro<a name="gennaro"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Gondolero en Venecia, hijo de [Nicola](#nicola).
 
-* Libros: [[5](libro_5/README.md)]
-
-### Filippo<a name="filippo"></a>
+### Filippo<a name="filippo"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Dueño de la librería _Acqua Alta_ en Venecia, amigo de [Ítaca](egerias/README.md#itaca).
 
-* Libros: [[5](libro_5/README.md)]
-
-### Olmedo<a name="olmedo"></a>
+### Olmedo<a name="olmedo"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Preso sombra de [Calibán](familia_olivier/README.md#caliban) en el centro penitenciario.
 
-* Libros: [[5](libro_5/README.md)]
-
-### Chiara Corner<a name="chiara_c"></a>
+### Chiara Corner<a name="chiara_c"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Directora del Hospital Civil en Venecia. Amiga de [Leone de Riva](familia_da_riva/#leone).
 
-* Libros: [[5](libro_5/README.md)]
-
-### José María Aldecoa<a name="aldecoa"></a>
+### José María Aldecoa<a name="aldecoa"></a> &nbsp; [[5](libro_5/README.md)]
 
 * Profesor de dibujo clásico en la Escuela de Artes y Oficios en Vitoria.
   Mató a [Gael](familia_lopez/README.md#gael).
 
-* Libros: [[5](libro_5/README.md)]
 
 [EVA_SAENZ]: https://es.wikipedia.org/wiki/Eva_Garc%C3%ADa_S%C3%A1enz_de_Urturi
 
