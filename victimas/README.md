@@ -40,12 +40,11 @@
 
 * Lugar: La hornacina de la Virgen Blanca, en la balconada de la iglesia de San Miguel Arcángel.
 
-### Mateo Ruiz de Zuazo<a name="mateo_r"></a> &nbsp; [[1](libro_1/README.md)]
+### Mateo Ruiz de Zuazo<a name="mateo_r"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Profesor de Marketing  en el Basque Culinary Cernter
 
 ### Irene Martínez de San Román<a name="irene_m"></a> &nbsp; [[1](libro_1/README.md)]
-
 
 ## Treinta y cinco años
 

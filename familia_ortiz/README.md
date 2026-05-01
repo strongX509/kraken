@@ -6,7 +6,7 @@
   Hijo de [Blanca Díaz de Antoñana](../README.md#blanca_d) y [Álvaro Urbina](../README.md#alvaro_u).
   Vive en la calle Dato 1.
 
-### Ignacio Ortiz de Zárate<a name="ignacio"></a> &nbsp; [[1](../libro_1/README.md)]
+### Ignacio Ortiz de Zárate<a name="ignacio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Era inspector de la División de Investigación Criminal en Vitoria.
   Hermano gemelo de [Tasio](#tasio).
