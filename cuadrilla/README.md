@@ -2,10 +2,11 @@
 
 ### [Unai](../familia_lopez/README.md#unai)
 
-### Martina López de Arroyabe<a name="martina"></a> &nbsp; [[1](../libro_1/README.md)]
+### Martina López de Arroyabe<a name="martina"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Trabaja en Mediación Familiar dentro de Servicios Sociales.
   Pareja de [German](../familia_lopez/README.md#mgerman).
+
 
 ### Sergio<a name="sergio"></a> &nbsp; [[1](../libro_1/README.md)]
 
@@ -15,7 +16,7 @@
   matando a [Paula](../README.md#paula), la esposa de [Unai](..familia_lopez/README.md#unai)
   y a los gemelos nonatos de Paula y Unai.
 
-### Nerea<a name="nerea"></a> &nbsp; [[1](../libro_1/README.md)]
+### Nerea<a name="nerea"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Dueña del quiosco de la esquina de Postas con la plaza de la Virgen Blanca.
 
@@ -23,11 +24,15 @@
 
 * Cronista del Diario Alavés. Amigo de [Edmundo](../README.md#edmundo).
 
-### Asier<a name="asier"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+### Asier Ruiz de Azua<a name="asier"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
-* Farmacéutico.
+* Farmacéutico. Dueño de dos farmacias, en la calle San Francisco y en el barrio de Salburua.
+  Casado con [Araceli](../README.md#araceli).
+  Ha abierto una cuenta con [Annabel Lee](../README.md#ana_b).
 
-### José Javier (Jota)<a name="jota"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+### José Javier (Jota) Hueto<a name="jota"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+
+* Asasinado por [Rebeca Tovar](../familia_tovar/README.md#rebeca) al estanque celtibérico de la Barbacana en Laguardia.
 
 ### Xabi<a name="xabi"></a> &nbsp; [[1](../libro_1/README.md)]
 

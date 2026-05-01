@@ -60,7 +60,7 @@
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra,
   recuperade del despacho de [Juan de la Cuesta](#caliban) escondido en la edición elefante de _La Tempestad_.
 
-### Paula<a name="paula"></a> &nbsp; [[1](libro_1/README.md)]
+### Paula<a name="paula"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Esposa de [Unai](familia_lopez/README.md#unai) que murió juntos con sus dos hijos nonatos
   cuando [Sergio](cuadrilla/README.md#sergio), el amigo de [Unai](familia_lopez/README.md#unai)
@@ -74,7 +74,7 @@
 
 * Forense de la División Criminal de Vitoria
 
-### Comisario Medina<a name="medina"></a> &nbsp; [[1](libro_1/README.md)]
+### Comisario Medina<a name="medina"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Comisario de la División Criminal de Vitoria
 
@@ -91,12 +91,12 @@
 
 * Esposa de [Álvaro Urbina](#alvaro_u).
 
-### Blanca Díaz de Antoñana<a name="blanca_d"></a> &nbsp; [[1](libro_1/README.md)]
+### Blanca Díaz de Antoñana<a name="blanca_d"></a> &nbsp; [[1](libro_1/README.md), [2](../libro_2/README.md)]
 
 * Se casó con [Javier Ortiz de Zárate](familia_ortiz/README.md#javier). Amante de [Álvaro Urbina](#alvaro_u).
   Madre de [Tasio](familia_ortiz/README.md#tasio), [Ignacio](familia_ortiz/README.md#ignacio) y [Nancho](#nancho).
 
-### Mario Santos (Nancho)<a name="nancho"></a> &nbsp; [[1](libro_1/README.md)]
+### Mario Santos (Nancho)<a name="nancho"></a> &nbsp; [[1](libro_1/README.md), [2](../libro_2/README.md)]
 
 * Director de _El Correo Vitoriano_. Marido de [Alba Díaz de Salvatierra](familia_diaz/README.md#alba).
   Hijo de [Blanca Díaz de Antoñana](#blanca_d) y [Álvaro Urbina](#alvaro_u).
@@ -138,11 +138,11 @@
 
 * Fue novia de [Ignacio Ortiz de Zárate](familia_ortiz/README.md#ignacio) cuando tenía dieciocho años.
 
-### Maturana (MatuSalem)<a name="maturana"></a> &nbsp; [[1](libro_1/README.md)]
+### Maturana (MatuSalem)<a name="maturana"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Hacker que esta publicando un blog con el hashtag #kraken.
 
-### Urresko Neska (Golden Girl)<a name="urresko_n"></a> &nbsp; [[1](libro_1/README.md)]
+### Urresko Neska (Golden Girl)<a name="urresko_n"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Leyenda en los foros de _black hack_.Tiene sesenta y seis años. Colaboradora de [Unai](familia_lopez/README.md#unai).
 
@@ -175,31 +175,45 @@
 ### Ana Belén Liaño (Annabel Lee)<a name="ana_b"></a> &nbsp; [[2](libro_2/README.md)]
 
 * Dibujante de cómics relativamente famosa. Primera novia de [Unai](familia_lopez/README.md#unai).
+  Asasinada por [Rebeca Tovar](familia_tovar/README.md#rebeca) en el túnel de San Adrián.
 
 ### Andoni Cuesta<a name="andoni_c"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Técnico de la Científica.
+* Técnico de la Unidad de la Policía Científica. Muere en el túnel de San Adrián durante una tormenta de nieve.
+
+### Goyo Muguruza<a name="goyo_m"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Inspector de la Unidad de la Policía Científica.
 
 ### Diana Aldecoa<a name="diana_a"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Neuróloga.
+* La neuróloga de [Unai](familia_lopez/README.md#unai).
 
-### Héctor del Castillo &nbsp; [[2](libro_2/README.md)]
+### Marian Martínez<a name="marian_m"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Director del Museo Arqueológico de Cantabria.
+* Trabaja en la Universidad de Cantabria para [Saúl Tovar](familia_tovar/README.md#saul)
+  haciendo de taxista.
 
-### Manu Peña &nbsp;
+### Manu Peña<a name="manu_p"></a> &nbsp; [[2](libro_2/README.md)]
 
 * Subinspector en la Unidad de Criminología de la comisaría; trasladado desde San Sebastián.
   
-### Milán Martínez &nbsp;
+### Milán Martínez<a name="milan_m"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Agente en la Sección Central de Delitos en Tecnologías de la Información.
+* Agente primera en la Sección Central de Delitos en Tecnologías de la Información.
   
-### Pablo Lanero (Paulaner) &nbsp; [[2](libro_2/README.md)]
- 
-* Inspector  de la comisaría de Santander.
+### Pablo Lanero (Paulaner)<a name="pablo_l"></a> &nbsp; [[2](libro_2/README.md)]
 
+* Inspector de la comisaría de Santander. Investigó la desaparición de
+  [Rebeca Tovar Pereda](familia_tovar/README.md#rebeca) en el mal llamado nacimiento del Ebro de Fontibre.
+
+### Héctor del Castillo<a name="hector_c"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Director del Museo Arqueológico de Cantabria.
+
+### Araceli<a name="araceli"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Mujer de [Asier](cuadrilla/README.md#asier).
 
 ### Edmundo (El Conde)<a name="edmundo"></a> &nbsp; [[4](libro_4/README.md)]
 

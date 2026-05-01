@@ -9,7 +9,7 @@
 ### Eneko Ruiz de Gauna (el Hierbas, el Eguzkilore)<a name="eneko"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Dueño de una herboristería con decoración esotérica en la torre de doña Otxanda.
-  Hermano de [Estí](#esti).
+  Hermano de [Estí](#esti). Asesinado por [Nancho](../README.md#nancho).
 
 Autor:  [Andreas Steffen][AS] [CC BY 4.0][CC]
 
