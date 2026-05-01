@@ -74,7 +74,7 @@
 
 * Forense de la División Criminal de Vitoria
 
-### Comisario Medina<a name="medina"></a> &nbsp; [[1](libro_1/README.md)]
+### Comisario Medina<a name="medina"></a> &nbsp; [[1](libro_1/README.md), [2](libro_2/README.md)]
 
 * Comisario de la División Criminal de Vitoria
 
@@ -91,12 +91,12 @@
 
 * Esposa de [Álvaro Urbina](#alvaro_u).
 
-### Blanca Díaz de Antoñana<a name="blanca_d"></a> &nbsp; [[1](libro_1/README.md)]
+### Blanca Díaz de Antoñana<a name="blanca_d"></a> &nbsp; [[1](libro_1/README.md), [2](../libro_2/README.md)]
 
 * Se casó con [Javier Ortiz de Zárate](familia_ortiz/README.md#javier). Amante de [Álvaro Urbina](#alvaro_u).
   Madre de [Tasio](familia_ortiz/README.md#tasio), [Ignacio](familia_ortiz/README.md#ignacio) y [Nancho](#nancho).
 
-### Mario Santos (Nancho)<a name="nancho"></a> &nbsp; [[1](libro_1/README.md)]
+### Mario Santos (Nancho)<a name="nancho"></a> &nbsp; [[1](libro_1/README.md), [2](../libro_2/README.md)]
 
 * Director de _El Correo Vitoriano_. Marido de [Alba Díaz de Salvatierra](familia_diaz/README.md#alba).
   Hijo de [Blanca Díaz de Antoñana](#blanca_d) y [Álvaro Urbina](#alvaro_u).
@@ -178,28 +178,36 @@
 
 ### Andoni Cuesta<a name="andoni_c"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Técnico de la Científica.
+* Técnico de la Unidad de la Policía Científica. Muere en el túnel de San Adrián durante una tormenta de nieve.
+
+### Goyo Muguruza<a name="goyo_m"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Inspector de la Unidad de la Policía Científica.
 
 ### Diana Aldecoa<a name="diana_a"></a> &nbsp; [[2](libro_2/README.md)]
 
-* Neuróloga.
+* La neuróloga de [Unai](familia_lopez/README.md#unai).
+
+### Marian Martínez<a name="marian_m"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Trabaja en la Universidad de Cantabria para [Saúl Tovar](familia_tovar/README.md#saul)
+  haciendo de taxista.
+
+### Manu Peña<a name="manu_p"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Subinspector en la Unidad de Criminología de la comisaría; trasladado desde San Sebastián.
+  
+### Milán Martínez<a name="milan_m"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Agente primera en la Sección Central de Delitos en Tecnologías de la Información.
+  
+### Pablo Lanero (Paulaner)<a name="pablo_l"></a> &nbsp; [[2](libro_2/README.md)]
+
+* Inspector de la comisaría de Santander.
 
 ### Héctor del Castillo &nbsp; [[2](libro_2/README.md)]
 
 * Director del Museo Arqueológico de Cantabria.
-
-### Manu Peña &nbsp;
-
-* Subinspector en la Unidad de Criminología de la comisaría; trasladado desde San Sebastián.
-  
-### Milán Martínez &nbsp;
-
-* Agente en la Sección Central de Delitos en Tecnologías de la Información.
-  
-### Pablo Lanero (Paulaner) &nbsp; [[2](libro_2/README.md)]
- 
-* Inspector  de la comisaría de Santander.
-
 
 ### Edmundo (El Conde)<a name="edmundo"></a> &nbsp; [[4](libro_4/README.md)]
 
