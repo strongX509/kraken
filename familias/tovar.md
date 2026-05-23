@@ -1,17 +1,17 @@
 # La familia Tovar
 
-### Saúl Tovar (Barba Azul)<a name="saul"></a> &nbsp; [[2](../libro_2/README.md)]
+### Saúl Tovar (Barba Azul)<a name="saul"></a> &nbsp; [[2](../libro_2/README.md), [2](../libro_2/README.md)]
 
 * Profesor de antropología cultural en la Universidad de Cantabria.
 
 ### Rebeca Tovar Pereda<a name="rebeca"></a> &nbsp; [[2](../libro_2/README.md)]
 
-* Hija de [Saúl](#saul) y [Asunción Pereda](../familia_pereda/README.md#asuncion),
+* Hija de [Saúl](#saul) y [Asunción Pereda](../familias/pereda.md#asuncion),
   desparecida cuando solo contaba con catorce años.
-  Después se estaba escondiendo en la casa su tía [Lourdes](../familia_pereda/README.md#lourdes) en Amsterdam.
+  Después se estaba escondiendo en la casa su tía [Lourdes](../familias/pereda.md#lourdes) en Amsterdam.
 
 * Alias: Beatriz Korres,
-         logopeda de [Unai](../familia_lopez/README.md#unai) y novia de [Germán](../familia_lopez/README.md#gernam).
+         logopeda de [Unai](../familias/lopez.md#unai) y novia de [Germán](../familias/lopez.md#gernam).
          Asesinó a [Annabel Lee](../README.md#ana_b) y a [Jota](../cuadrilla/README.md#jota).
 
 ### Gimena Tovar<a name="gimena"></a> &nbsp; [[2](../libro_2/README.md)]

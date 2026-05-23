@@ -1,18 +1,18 @@
 # Las Egerias
 
-### [Jimena Garay](../familia_garay/README.md#jimena)
+### [Jimena Garay](../familias/garay.md#jimena)
 
 ### Ítaca Expósito<a name="itaca"></a> &nbsp; [[4](../libro_4/README.md), [5](../libro_5/README.md)]
 
 * Falsicadora de libros y cuadros. Pertenece al círculo de las Egerias.
   Huérfana abandonada a las puertas del colegio de Veracruz en Vitoria (1 de enero 1957).
-  Madre de [Unai](../familia_lopez/README.md#unai) y [Mencía](../README.md#mencia_m),
-  amante de [Gael](../familia_lopez/README.md#gael) y amiga de [Mikaela](../README.md#mikaela).
+  Madre de [Unai](../familias/lopez.md#unai) y [Mencía](../README.md#mencia_m),
+  amante de [Gael](../familias/lopez.md#gael) y amiga de [Mikaela](../README.md#mikaela).
 
 * Alias: Gabriela Milton,
          Calle de la Sierpe, número 3, Madrid. Libro: [[4](../libro_4/README.md)].
 
-* Alias: [Jimena Garay](../familia_garay/README.md#jimena_g),
+* Alias: [Jimena Garay](../familias/garay.md#jimena_g),
          Taller en San Marco junto al campo de San Vidal, Venecia. Libro: [[5](../libro_4/README.md)].
 
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra,

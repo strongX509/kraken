@@ -1,15 +1,15 @@
 # Familia Ortiz de Zárate
     
-### Tasio Ortiz de Zárate<a name="tasio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+### Tasio Ortiz de Zárate<a name="tasio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md), [3](../libro_3/README.md)]
 
 * Hermano gemelo de [Ignacio](#ignacio).
   Hijo de [Blanca Díaz de Antoñana](../README.md#blanca_d) y [Álvaro Urbina](../README.md#alvaro_u).
   Vive en la calle Dato 1.
 
-### Ignacio Ortiz de Zárate<a name="ignacio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
+### Ignacio Ortiz de Zárate<a name="ignacio"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md, [3](../libro_3/README.md))]
 
 * Era inspector de la División de Investigación Criminal en Vitoria.
-  Hermano gemelo de [Tasio](#tasio).
+  Hermano gemelo de [Tasio](#tasio)., [3](../libro_3/README.md)
   Hijo de [Blanca Díaz de Antoñana](../README.md#blanca_d) y [Álvaro Urbina](../README.md#alvaro_u).
   Vive en la calle Dato 2. Tiene un chalet en Laguardia.
 

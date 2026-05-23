@@ -4,7 +4,7 @@
 
 * Inspectora de la División Criminal de Vitoria y experta en Victimología.
 * Hermana de [Eneko](#eneko).
-  Compañera y amiga de [Unai](../familia_lopez/README.md#unai).
+  Compañera y amiga de [Unai](../familias/lopez.md#unai).
 
 ### Eneko Ruiz de Gauna (el Hierbas, el Eguzkilore)<a name="eneko"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 

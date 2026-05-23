@@ -1,19 +1,19 @@
 # La Cuadrilla de San Viator
 
-### [Unai](../familia_lopez/README.md#unai)
+### [Unai](../familias/lopez.md#unai)
 
 ### Martina López de Arroyabe<a name="martina"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
 * Trabaja en Mediación Familiar dentro de Servicios Sociales.
-  Pareja de [German](../familia_lopez/README.md#mgerman).
+  Pareja de [German](../familias/lopez.md#mgerman).
 
 
 ### Sergio<a name="sergio"></a> &nbsp; [[1](../libro_1/README.md)]
 
-* Amigo de [Unai](../familia_lopez/README.md#una) desde los seis años.
+* Amigo de [Unai](../familias/lopez.md#una) desde los seis años.
   Marido de [Sara](../README.md#sara) que murió a causa de un ataque de asma.
   Sergio se suicidó estrellando su coche a gran velocidad contra un árbol,
-  matando a [Paula](../README.md#paula), la esposa de [Unai](..familia_lopez/README.md#unai)
+  matando a [Paula](../README.md#paula), la esposa de [Unai](..familias/lopez.md#unai)
   y a los gemelos nonatos de Paula y Unai.
 
 ### Nerea<a name="nerea"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
@@ -32,7 +32,7 @@
 
 ### José Javier (Jota) Hueto<a name="jota"></a> &nbsp; [[1](../libro_1/README.md), [2](../libro_2/README.md)]
 
-* Asasinado por [Rebeca Tovar](../familia_tovar/README.md#rebeca) al estanque celtibérico de la Barbacana en Laguardia.
+* Asasinado por [Rebeca Tovar](../familias/tovar.md#rebeca) al estanque celtibérico de la Barbacana en Laguardia.
   Padre del bebé que [Annabel Lee](../README.md#ana_b) estaba esperando.
 
 ### Xabi<a name="xabi"></a> &nbsp; [[1](../libro_1/README.md)]

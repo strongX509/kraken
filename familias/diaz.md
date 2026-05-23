@@ -4,7 +4,7 @@
 
 * Subcomisaria en la comisaría de Vitoria. Esposa de [Mario Santos](../README.md#mario_s).
   Madre de [Deba](#deba) y hija de [Nieves](#nieves). Después gerente de su hotel, el Hotel de Doña Blanca en Laguardia, Álava.
-  Pareja de [Unai](../familia_lopez/README.md#unai).
+  Pareja de [Unai](lopez.md#unai).
 
 ### Deba Díaz de Salvatierra<a name="deba"></a> &nbsp; [[2](../libro_2/README.md), [3](../libro_3/README.md), [4](../libro_4/README.md), [5](../libro_5/README.md)]
 

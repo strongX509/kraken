@@ -3,7 +3,7 @@
 ### Ricardo Ruiz de Azúa<a name="ricardo"></a> &nbsp; [[5](../libro_5/README.md)]
 
 * Vicerrector del Campus de Álava. Murió en su cama envenado con nicotina por su mujer [Asun](#asun).
-  Como buen amigo era el Custodio de la herencia de [Casto Olivier](../familia_olivier/README.md#casto).
+  Como buen amigo era el Custodio de la herencia de [Casto Olivier](../familias/olivier.md#casto).
 
 ### Ricardo Ruiz de Azúa hijo<a name="ricardo_hijo"></a> &nbsp; [[5](../libro_5/README.md)]
 

@@ -4,7 +4,7 @@
 
 * Propretario de la fábrica de naipes en Vitoria. Vivió en una casona en la calle Manuel Iradier en Vitoria.
   Tres nietos: [Carmen](#carmen), [Diego](#diego) y [Nico](#caliban).
-  Mató a [Jimena Garay](../familia_garay/README.md#jimena) con una maceta.
+  Mató a [Jimena Garay](../familias/garay.md#jimena) con una maceta.
 
 * En posesión temporal del _Libro Negro de las Horas_ de Constanza de Navarra.
 

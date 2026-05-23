@@ -18,7 +18,7 @@
 
 ### Lydia García de Vicuña<a name="lydia_g"></a> &nbsp; [[1](libro_1/README.md)]
 
-* Novia de [Ignacio](../familia_ortiz/README.md#ignacio) y [Tasio](../familia_ortiz/README.md#tasio).
+* Novia de [Ignacio](../familias/ortiz.md#ignacio) y [Tasio](../familias/ortiz.md#tasio).
 
 ## Veinte años
 
@@ -26,11 +26,7 @@
 
 ### Alejandro Pérez de Arriluca<a name="alejandro_p"></a> &nbsp; [[1](libro_1/README.md)]
 
-### Enara Fernández de Betoño<a name="enara_f"></a> &nbsp; [[1](libro_1/README.md)]
-
-* Estudiante de óptica en la Universidad Complutense de Madrid.
-  Vivía con su padre [Antonio](../README.md#antonio_f) encima de la óptica en la calle San Prudencio,
-  Novio de [Peio](../README.md#peio).
+### [Enara Fernández de Betoño](../familias/fernandez.md#enara)
 
 ## Veinticinco años
 
@@ -50,7 +46,7 @@
 
 * Lugar: Estatua del Caminante en la plaza del Arca
 
-### [Eneko Ruiz de Gauna](../familia_ruiz_de_gauna/README.md#eneko)
+### [Eneko Ruiz de Gauna](../familias/ruiz_de_gauna.md#eneko)
 
 ### [Martina López de Arroyabe](../cuadrilla/README.md#martina)
 
@@ -58,11 +54,11 @@
 
 * Lugar: La torre de Ochate
 
-### [Unai López de Ayala](../familia_lopez/README.md#unai)
+### [Unai López de Ayala](../familias/lopez.md#unai)
 
 * Sobrevivió con una bala en el cerebro.
 
-### [Alba Díaz de Salvatierra](../familia_diaz/README.md#alba)
+### [Alba Díaz de Salvatierra](../familias/diaz.md#alba)
 
 * Sobrevivió.
 
@@ -70,11 +66,11 @@
 
 * Lugar: La torre de Ochate
 
-### [Tasio Ortiz de Zárate](..familia_ortiz/README.md#tasio)
+### [Tasio Ortiz de Zárate](..familias/ortiz.md#tasio)
 
 * Sobrevivió.
 
-### [Ignacio Ortiz de Zárate](..familia_ortiz/README.md#ignacio)
+### [Ignacio Ortiz de Zárate](..familias/ortiz.md#ignacio)
 
 * Sobrevivió.
 
